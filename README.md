@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Brazil, Portal Alegre Area.
-
 I am a Java Developer, but in love with **C**/**C++** and **Assembly**.  
 I like to learn about computers, operations systems, databases, data structures, computer network, and programming languages.
 
