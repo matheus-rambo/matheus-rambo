@@ -15,6 +15,13 @@ Just a computer programmer that likes to play videogames(especially games that w
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=iammatheusrambo&repo=r_crypto&theme=dark)
 
+- [ramboso_xterm](https://github.com/iammatheusrambo/ramboso_xterm)
+
+  My very own Linux Terminal.   
+  I am creating this just for fun, and work with Syscalls and the C programming language.   
+  
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=iammatheusrambo&repo=ramboso_xterm&theme=dark)
+
 # Languages
 My main language is ***`Java`***(my first Hello World was with it), I can  work with  ***`Python`*** and ***`C`***.     
 I know a bit of ***`Assembly`*** and ***`C++(this one is too complex)`***.
