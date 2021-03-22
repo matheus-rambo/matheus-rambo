@@ -1,8 +1,13 @@
 # Hi there 👋
+- [Projects](#projects)  
+- [Computer Languages](#computer-languages)
+
+Myself as a south park member.     
+![image](./avatar.png)
+
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=iammatheusrambo&show_icons=true&theme=dark&include_all_commits=true)
 
 Just a computer programmer that likes to play videogames(especially games that were part of my childhood) study game development too, play basketball, learn new things(especially about computers, and related)
-
 
 # Projects
 
@@ -22,8 +27,10 @@ Just a computer programmer that likes to play videogames(especially games that w
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=iammatheusrambo&repo=ramboso_xterm&theme=dark)
 
-# Languages
-My main language is ***`Java`***(my first Hello World was with it), I can  work with  ***`Python`*** and ***`C`***.     
-I know a bit of ***`Assembly`*** and ***`C++(this one is too complex)`***.
+# Computer Languages
+My favorite language is **`C`**, I realy became a better programmer after learning it.     
+Python & Java are great to.     
+
+But, I am a language agnostic, and, I can work with everything that I want.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=iammatheusrambo&show_icons=true&theme=dark)
