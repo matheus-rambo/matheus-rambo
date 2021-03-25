@@ -2,9 +2,6 @@
 - [Projects](#projects)  
 - [Computer Languages](#computer-languages)
 
-Myself as a south park member.     
-![image](./avatar.png)
-
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=iammatheusrambo&show_icons=true&theme=dark&include_all_commits=true)
 
 Just a computer programmer that likes to play videogames(especially games that were part of my childhood) study game development too, play basketball, learn new things(especially about computers, and related)
