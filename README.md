@@ -8,6 +8,13 @@ Just a computer programmer that likes to play videogames(especially games that w
 
 # Projects
 
+- [DaWatcher](https://github.com/iammatheusrambo/DaWatcher)
+
+  A simple project that let users do an action when some event occurs in a file.     
+  **I use only Linux syscalls, and, users can create their own plugins.**
+  
+ ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=iammatheusrambo&repo=DaWatcher&theme=dark)
+
 - [r_crypto](https://github.com/iammatheusrambo/r_crypto)
   
   My open source project that makes *symmetric encryption* ease.   
