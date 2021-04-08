@@ -1,10 +1,13 @@
 # Hi there 👋
+- [Introduction](#Introduction)
 - [Projects](#projects)  
 - [Computer Languages](#computer-languages)
 
-![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=sgtcortez&show_icons=true&theme=dark&include_all_commits=true)
+# Introduction
+Hi, I am a computer programmer, my favourite language is the `C` programming language.    
+I like to study about new languages(C++ is one, Haskell too) and Computer Architeture and Operating Systems.
 
-Just a computer programmer that likes to play videogames(especially games that were part of my childhood) study game development too, play basketball, learn new things(especially about computers, and related)
+![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=sgtcortez&show_icons=true&theme=dark&include_all_commits=true)
 
 # Projects
 
