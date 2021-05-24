@@ -1,7 +1,12 @@
 # Hi there 👋
+- [Work](#work)
 - [Introduction](#Introduction)
 - [Projects](#projects)  
 - [Computer Languages](#computer-languages)
+
+# Work
+I have my own Software comnpany, and, I work for it. This is the [GitHub profile](https://github.com/Rambo-Industries).   
+You can contact me for there, or here.
 
 # Introduction
 Hi, I am a computer programmer, my favourite language is the `C` programming language.    
