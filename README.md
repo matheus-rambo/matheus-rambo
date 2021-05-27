@@ -9,7 +9,8 @@ I have my own Software comnpany, and, I work for it. This is the [GitHub profile
 You can contact me for there, or here.
 
 # Introduction
-Hi, I am a computer programmer, my main interests are Operating Systems. 🇧🇷🇧🇷🇧🇷
+🇧🇷🇧🇷🇧🇷       
+Hi, I am a computer programmer, my main interests are Operating Systems and Programming Languages.    
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sgtcortez&repo=sgtcortez&countColorcountColor)
 
@@ -22,7 +23,7 @@ Hi, I am a computer programmer, my main interests are Operating Systems. 🇧�
   A simple project that let users do an action when some event occurs in a file.     
   **I use only Linux syscalls, and, users can create their own plugins.**
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=DaWatcher&theme=dark)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=DaWatcher&theme=dark)      
 
 - [r_crypto](https://github.com/iammatheusrambo/r_crypto)
   
@@ -31,14 +32,16 @@ Hi, I am a computer programmer, my main interests are Operating Systems. 🇧�
   More info, you can see at the project wiki page. :kissing: :kissing: :kissing:     
   ***Take a look! :grin:***
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=r_crypto&theme=dark)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=r_crypto&theme=dark)       
+
 
 - [ramboso_xterm](https://github.com/sgtcortez/ramboso_xterm)
 
   My very own Linux Terminal.   
   I am creating this just for fun, and work with Syscalls and the C programming language.   
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=ramboso_xterm&theme=dark)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=ramboso_xterm&theme=dark)     
+
 
 # Computer Languages
 My favorite programming languange is `C`, but, I am a agnostic about it.    
