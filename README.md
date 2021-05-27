@@ -9,7 +9,7 @@ I have my own Software comnpany, and, I work for it. This is the [GitHub profile
 You can contact me for there, or here.
 
 # Introduction
-Hi, I am a computer programmer, my main interests are Operating Systems.
+Hi, I am a computer programmer, my main interests are Operating Systems. 🇧🇷🇧🇷🇧🇷
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sgtcortez&repo=sgtcortez&countColorcountColor)
 
