@@ -9,8 +9,7 @@ I have my own Software comnpany, and, I work for it. This is the [GitHub profile
 You can contact me for there, or here.
 
 # Introduction
-Hi, I am a computer programmer, my favourite language is the `C` programming language.    
-I like to study about new languages(C++ is one, Haskell too) and Computer Architeture and Operating Systems.
+Hi, I am a computer programmer, my main interests are Operating Systems.
 
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=sgtcortez&show_icons=true&theme=dark&include_all_commits=true)
 
@@ -40,9 +39,7 @@ I like to study about new languages(C++ is one, Haskell too) and Computer Archit
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=ramboso_xterm&theme=dark)
 
 # Computer Languages
-My favorite language is **`C`**, I realy became a better programmer after learning it.     
-Python & Java are great to.     
-
-But, I am a language agnostic, and, I can work with everything that I want.
+My favorite programming languange is `C`, but, I am a agnostic about it.    
+I use `awk`, `java`, `c`, `python` and `bash` daily.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sgtcortez&show_icons=true&theme=dark)
