@@ -11,6 +11,8 @@ You can contact me for there, or here.
 # Introduction
 Hi, I am a computer programmer, my main interests are Operating Systems.
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sgtcortez&repo=sgtcortez&countColorcountColor)
+
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=sgtcortez&show_icons=true&theme=dark&include_all_commits=true)
 
 # Projects
