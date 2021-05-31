@@ -44,7 +44,11 @@ Hi, I am a computer programmer, my main interests are Operating Systems and Prog
 
 
 # Computer Languages
-My favorite programming languange is `C`, but, I am a agnostic about it.    
-I use `awk`, `java`, `c`, `python` and `bash` daily.
+My favorite programming languange is `C`, but, I am an agnostic about it.    
+
+Currently, at my job, I use Java.   
+But, I use python and bash almost all day, to automate things. And, AWK when I need to manipulate a text file.  
+
+C is my hobby language, I really like, and, it teaches me a lot of stuff about computers.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sgtcortez&show_icons=true&theme=dark)
