@@ -28,7 +28,7 @@ Hi, I am a computer programmer, my main interests are Operating Systems and Prog
 - [r_crypto](https://github.com/iammatheusrambo/r_crypto)
   
   My open source project that makes *symmetric encryption* ease.   
-  With this, you can encrypt any type of files, store message inside a encrypted file/text, so the user that decrypts it, will see you message.     
+  With this, you can encrypt any type of files, store message inside a encrypted file/text, so the user that decrypts it, will see you message.      
   More info, you can see at the project wiki page. :kissing: :kissing: :kissing:     
   ***Take a look! :grin:***
   
@@ -42,12 +42,10 @@ Hi, I am a computer programmer, my main interests are Operating Systems and Prog
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=ramboso_xterm&theme=dark)     
 
-
 # Computer Languages
 My favorite programming languange is `C`, but, I am an agnostic about it.    
 
-Currently, at my job, I use Java.   
-But, I use python and bash almost all day, to automate things. And, AWK when I need to manipulate a text file.  
+Currently, at my job, I use Java, but, I use python and bash almost all day, to automate things. And, AWK when I need to manipulate some text.  
 
 C is my hobby language, I really like, and, it teaches me a lot of stuff about computers.
 
