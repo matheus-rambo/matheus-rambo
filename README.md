@@ -18,6 +18,14 @@ Hi, I am a computer programmer, my main interests are Operating Systems and Prog
 
 # Projects
 
+- [Termsequel](https://github.com/sgtcortez/Termsequel)
+
+  Bringing SQL to our beloved file system ...     
+  With Termsequel, you can search for files, permissions, size ... using SQL commands ...
+  
+  This is my most important project ... :grin::grin:     
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=sgtcortez&repo=Termsequel&theme=dark)      
+
 - [DaWatcher](https://github.com/sgtcortez/DaWatcher)
 
   A simple project that let users do an action when some event occurs in a file.     
