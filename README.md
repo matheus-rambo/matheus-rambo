@@ -1,6 +1,10 @@
 # Hi there 👋
 - [Work](#work)
 - [Introduction](#Introduction)
+  + [Termsequel](#Termsequel)
+  + [DaWatcher](#DaWatcher)
+  + [r_crypto](#r_crypto)
+  + [ramboso_xterm](#ramboso_xterm)
 - [Projects](#projects)  
 - [Computer Languages](#computer-languages)
 
@@ -18,7 +22,7 @@ Hi, I am a computer programmer, my main interests are Operating Systems and Prog
 
 # Projects
 
-- [Termsequel](https://github.com/sgtcortez/Termsequel)
+- ### [Termsequel](https://github.com/sgtcortez/Termsequel)
 
   Bringing SQL to our beloved file system ...     
   With Termsequel, you can search for files, permissions, size ... using SQL commands ...
