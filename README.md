@@ -1,11 +1,11 @@
 # Hi there 👋
 - [Work](#work)
 - [Introduction](#Introduction)
+- [Projects](#projects)  
   + [Termsequel](#Termsequel)
   + [DaWatcher](#DaWatcher)
   + [r_crypto](#r_crypto)
   + [ramboso_xterm](#ramboso_xterm)
-- [Projects](#projects)  
 - [Computer Languages](#computer-languages)
 
 # Work
