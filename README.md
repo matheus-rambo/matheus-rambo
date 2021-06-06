@@ -1,5 +1,8 @@
 # Hi there 👋
+"An idiot admires complexity, a genius admires simplicity." - **Terry A. Davis**.
+
 - [Work](#work)
+- [Contact](#Contact)
 - [Introduction](#Introduction)
 - [Projects](#projects)  
   + [Termsequel](#Termsequel)
@@ -11,6 +14,9 @@
 # Work
 I have my own Software comnpany, and, I work for it. This is the [GitHub profile](https://github.com/Rambo-Industries).   
 You can contact me for there, or here.
+
+# Contact
+- [Telegram](https://telegram.me/sgtcortez)
 
 # Introduction
 🇧🇷🇧🇷🇧🇷       
